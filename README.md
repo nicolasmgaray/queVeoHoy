@@ -1,7 +1,7 @@
 # Que Veo Hoy
 Little movie recommendation web app to practice Node , Express, and SQL
 
-
+![Screenshot1](images/demo1.png)
 
 # How it works
 - The app is composed of a client, a server, and a DB.
